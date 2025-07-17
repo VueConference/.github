@@ -1,7 +1,5 @@
 <div align="center">
-    <img src="../vue-conf.svg" width="480" height="480" alt="vue-conf"/>
-    <div>
-        <span color="#81c784">VUE</span>
-        <span color="#455a64">CONF</span>
-    </div>
+    <img src="../vue-conf.svg" width="280" height="280" alt="vue-conf"/>
+    <h1>VUE</h1>
+    <h1>CONF</h1>
 </div>
